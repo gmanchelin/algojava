@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.bean","l":"Bonjour"},{"p":"fr.declaration.variable","l":"DeclarationApp"},{"p":"fr.boucles","l":"ExerciceBoucleBase"}];updateSearchResults();
